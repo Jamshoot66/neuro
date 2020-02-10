@@ -1,0 +1,13 @@
+
+.wrapper{
+	margin: 35px auto;
+	width: 50vw;
+	height: 50vh;
+
+	font-size: 35px;
+	display: flex;
+
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
